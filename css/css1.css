@@ -1,0 +1,13 @@
+/* * {
+    margin:0;
+    padding: 0;
+    border: 1px solid rgb(18, 181, 202);
+} */ 
+/* main {
+    background-color: aquamarine;
+} */
+
+#pie,#encabezado,#aside {
+    background-color: gray;
+}
+
